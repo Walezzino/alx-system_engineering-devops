@@ -1,0 +1,1 @@
+my readme of shell_variables_expansions
